@@ -1,0 +1,15 @@
+{
+  "name": "image-search",
+  "version": "0.0.0",
+  "description": "Image search.",
+  "main": "server.js",
+  "repository": "",
+  "author": "Prince",
+  "dependencies": {
+    "bing.search": "^1.0.1",
+    "dotenv": "^1.2.0",
+    "express": "^4.13.3",
+    "body-parser": "^1.14.2",
+    "mongoose": "^4.3.7"
+  }
+}
